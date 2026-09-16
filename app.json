@@ -1,0 +1,36 @@
+{
+  "id": "62d81e06-db6a-4ca0-be44-f11dd53bf6ba",
+  "name": "Adjuntos",
+  "publisher": "Aconser Grupo Empresarial S.L.",
+  "brief": "Aplicación interna",
+  "description": "Tratar adjuntos",
+  "version": "1.0.0.0",
+  "privacyStatement": "https://www.aconser.com/politica-privacidad/",
+  "EULA": "https://www.aconser.com/aviso-legal/",
+  "help": "https://www.aconser.com/",
+  "contextSensitiveHelpUrl": "https://www.aconser.com/",
+  "url": "https://www.aconser.com/",
+  "logo": "./logo/aconser-logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.4.0.0",
+  "idRanges": [
+    {
+      "from": 60811,
+      "to": 60820
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": true
+  },
+  "runtime": "17.0",
+  "features": [
+      "NoImplicitWith",
+      "TranslationFile"
+  ],
+  "applicationInsightsConnectionString": ""
+}
