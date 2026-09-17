@@ -8,15 +8,15 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType SelectZIPFileMsg</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Method 3091011118 - NamedType 1038668468" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2146227100">
+        <trans-unit id="PageExtension 2146227100 - Method 3091011118 - NamedType 3499688558" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2146227100">
           <source>La factura de compra registrada %1 no existe.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType NoPIHError</note>
+          <note from="Developer" annotates="general" priority="2">%1 = Factura de compra registrada</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType NoPIHErrorLbl</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Method 3091011118 - NamedType 3907048935" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2146227100">
+        <trans-unit id="PageExtension 2146227100 - Method 3091011118 - NamedType 1141732745" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2146227100">
           <source>%1 adjuntos importados correctamente.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType ImportedMsg</note>
+          <note from="Developer" annotates="general" priority="2">%1 = Número de adjuntos importados</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType ImportedMsgLbl</note>
         </trans-unit>
         <trans-unit id="PageExtension 2146227100 - Action 3097883586 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
           <source>Descarga todos los adjuntos de los documentos seleccionados en un ZIP.</source>
