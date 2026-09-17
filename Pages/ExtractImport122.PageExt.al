@@ -5,13 +5,13 @@ using System.IO;
 using System.Security.AccessControl;
 using System.Utilities;
 
-pageextension 60811 ExtractImport extends "Posted Purchase Invoices"
+pageextension 60811 ExtractImport122 extends "Posted Purchase Invoices"
 {
     actions
     {
         addfirst(processing)
         {
-            action(DownloadAttachments)
+            action(DownloadAttachments122)
             {
                 ApplicationArea = All;
                 Caption = 'Descargar adjuntos';
@@ -65,7 +65,7 @@ pageextension 60811 ExtractImport extends "Posted Purchase Invoices"
 
         addlast(processing)
         {
-            action(ImportZipFile)
+            action(ImportZipFile122)
             {
                 Caption = 'Importar fichero Zip con adjuntos';
                 ApplicationArea = All;

@@ -13,7 +13,7 @@
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
             "schemaUpdateMode": "ForceSync",            
-            "startupObjectId": 146,
+            "startupObjectId": 145,
             "startupObjectType": "Page"
         },
     ]

@@ -3,40 +3,75 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Adjuntos">
     <body>
       <group id="body">
-        <trans-unit id="PageExtension 2146227100 - Method 3091011118 - NamedType 2182284056" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2146227100">
+        <trans-unit id="PageExtension 3459088653 - Method 3091011118 - NamedType 2182284056" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3459088653">
           <source>Selecciona el fichero ZIP</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType SelectZIPFileMsg</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport120 - Method ImportAttachmentsFromZip - NamedType SelectZIPFileMsg</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Method 3091011118 - NamedType 3499688558" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2146227100">
+        <trans-unit id="PageExtension 3459088653 - Method 3091011118 - NamedType 3499688558" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3459088653">
           <source>La factura de compra registrada %1 no existe.</source>
           <note from="Developer" annotates="general" priority="2">%1 = Factura de compra registrada</note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType NoPIHErrorLbl</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport120 - Method ImportAttachmentsFromZip - NamedType NoPIHErrorLbl</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Method 3091011118 - NamedType 1141732745" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2146227100">
+        <trans-unit id="PageExtension 3459088653 - Method 3091011118 - NamedType 1141732745" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3459088653">
           <source>%1 adjuntos importados correctamente.</source>
           <note from="Developer" annotates="general" priority="2">%1 = Número de adjuntos importados</note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Method ImportAttachmentsFromZip - NamedType ImportedMsgLbl</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport120 - Method ImportAttachmentsFromZip - NamedType ImportedMsgLbl</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Action 3097883586 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+        <trans-unit id="PageExtension 3459088653 - Action 2607692608 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1116965951">
           <source>Descarga todos los adjuntos de los documentos seleccionados en un ZIP.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Action DownloadAttachments - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport120 - Action DownloadAttachments112 - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Action 3097883586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+        <trans-unit id="PageExtension 3459088653 - Action 2607692608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1116965951">
           <source>Descargar adjuntos</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Action DownloadAttachments - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport120 - Action DownloadAttachments112 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Action 1514843628 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+        <trans-unit id="PageExtension 3459088653 - Action 511403582 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1116965951">
           <source>Importar adjuntos desde fichero Zip</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Action ImportZipFile - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport120 - Action ImportZipFile112 - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2146227100 - Action 1514843628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+        <trans-unit id="PageExtension 3459088653 - Action 511403582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1116965951">
           <source>Importar fichero Zip con adjuntos</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport - Action ImportZipFile - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport120 - Action ImportZipFile112 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2183695419 - Method 3091011118 - NamedType 2182284056" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2183695419">
+          <source>Selecciona el fichero ZIP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport122 - Method ImportAttachmentsFromZip - NamedType SelectZIPFileMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2183695419 - Method 3091011118 - NamedType 3499688558" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2183695419">
+          <source>La factura de compra registrada %1 no existe.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Factura de compra registrada</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport122 - Method ImportAttachmentsFromZip - NamedType NoPIHErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2183695419 - Method 3091011118 - NamedType 1141732745" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2183695419">
+          <source>%1 adjuntos importados correctamente.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Número de adjuntos importados</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport122 - Method ImportAttachmentsFromZip - NamedType ImportedMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2183695419 - Action 2191792785 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+          <source>Descarga todos los adjuntos de los documentos seleccionados en un ZIP.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport122 - Action DownloadAttachments122 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2183695419 - Action 2191792785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+          <source>Descargar adjuntos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport122 - Action DownloadAttachments122 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2183695419 - Action 1442783595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+          <source>Importar adjuntos desde fichero Zip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport122 - Action ImportZipFile122 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2183695419 - Action 1442783595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+          <source>Importar fichero Zip con adjuntos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExtractImport122 - Action ImportZipFile122 - Property Caption</note>
         </trans-unit>
       </group>
     </body>
